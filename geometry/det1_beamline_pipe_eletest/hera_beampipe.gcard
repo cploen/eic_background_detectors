@@ -1,0 +1,22 @@
+<gcard>
+<detector name="hera_beamline_pipe" factory="TEXT" variation="pipe_100Be"/>
+
+<option name="INTEGRATEDRAW" value="flux"/>
+<option name="PHYSICS" value="QGSP_BERT"/>
+<option name="RECORD_PASSBY" value="1"/>
+<option name="G4TRACK_VERBOSITY" value="1"/>
+
+<option name="MAX_X_POS" value="1000000"/>
+<option name="MAX_Y_POS" value="1000000"/>
+<option name="MAX_Z_POS" value="1000000"/>
+<option name="HALL_DIMENSIONS" value="50*m,50*m,50*m"/>
+
+<option name="EXEC_MACRO" value="det1_slice_half.vis"/>
+
+
+
+<option name="geometry" value="800x800"/>
+<option name="HIGH_RES" value="1"/>
+<option name="USE_GUI"  value="1"/>
+
+</gcard>

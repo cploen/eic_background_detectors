@@ -1,0 +1,7 @@
+e_us_BXSR2L_length                  | 2.00000007574  | m   | electron upstream dipole length        | - |  - | - | - | - | -
+e_us_BXSR2L_innerhalfaperture       | 5              | cm  | electron upstream dipole innerhalfaperture | - |  - | - | - | - | -
+e_us_BXSR2L_outerhalfaperture       | 20             | cm  | electron upstream dipole outerhalfaperture | - |  - | - | - | - | -
+e_us_BXSR2L_strength                | 0.320178879728 | T/m | electron upstream dipole strength      | - |  - | - | - | - | -
+e_us_BXSR2L_X                       | 0.0  | m   | electron upstream dipole X center      | - |  - | - | - | - | -
+e_us_BXSR2L_Z                       | 4.0   | m   | electron upstream dipole Z center      | - |  - | - | - | - | -
+e_us_BXSR2L_Theta                   | 0.0 | rad | electron upstream dipole Theta  | - |  - | - | - | - | -

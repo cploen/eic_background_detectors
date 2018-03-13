@@ -1,0 +1,2 @@
+        Scintillator  |                  Scintillator  |     1.032  |         2  |                               G4_C 0.47 G4_H 0.53  | none  | none  | none  | none  | none  | none  | none  |   -1  |   -1  |   -1  |   -1  |   -1  | none  |   -1  
+        Scintillator  |                  Scintillator  |     1.032  |         2  |                               G4_C 0.47 G4_H 0.53  | none  | none  | none  | none  | none  | none  | none  |   -1  |   -1  |   -1  |   -1  |   -1  | none  |   -1  

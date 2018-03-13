@@ -1,0 +1,48 @@
+<gcard>
+
+
+<detector name="ele_us_dipole_BXSR2L_5GeV" factory="TEXT" variation="Original"/>
+
+<detector name="../det1_eleside_disc/det1_eleside_disc"  factory="TEXT" variation="Original"/>
+
+
+<option name="INTEGRATEDRAW" value="flux"/>
+
+<option name="PHYSICS" value="FTFP_BERT + EMZ"/>
+<option name="RECORD_PASSBY" value="1"/>
+
+<option name="HALL_MATERIAL" value="Vacuum"/>
+
+<option name="G4TRACK_VERBOSITY" value="1"/>
+
+
+<option name="MAX_X_POS" value="100000"/>
+<option name="MAX_Y_POS" value="100000"/>
+<option name="MAX_Z_POS" value="100000"/>
+<option name="HALL_DIMENSIONS" value="50*m,50*m,50*m"/>
+
+<!-- Hall Field -->
+ 
+
+<option name="FIELD_DIR" value="../../field"/>
+<option name="SCALE_FIELD" value="det1_ele_us_BXSR2L_5GeV, 100"/>
+
+
+<option name="USE_GUI" value="1"/>
+<option name="N" value="20"/>
+
+
+<!-- Beam Conditions -->
+
+<option name="BEAM_P" value="e-, 5*GeV, 0.019198622*rad, 180.0*deg"/>
+<option name="BEAM_V" value="(0.1920,0,2990)mm"/>
+<option name="SPREAD_P" value="0*GeV, 0*mrad, 0.0*rad"/>
+
+<option name="OUTPUT"   value="evio, out.ev"/>
+
+<!--<option name="EXEC_MACRO" value="../../det1_dipole_slice.vis"/>
+-->
+
+</gcard>
+
+
